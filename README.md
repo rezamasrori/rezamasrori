@@ -1,2 +1,0 @@
-# rezamasrori
-Created with CodeSandbox
